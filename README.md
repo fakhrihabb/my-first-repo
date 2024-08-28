@@ -1,7 +1,9 @@
-Nama : Fakhri Habibi
+Nama : Pak Bepe
 
-NPM : 2306223206
+NPM : 2201234567
 
-Kelas : PBP C
+Kelas : PBP A
 
 Hobi : Tidur
+
+Jurusan : Ilmu Sistem Informasi Komputer
